@@ -1,8 +1,9 @@
 #background {
   background-image: radial-gradient(red,purple, blue);
-  height: 100vh;
+  height: 200vh;
   margin: 0px;
   display: flex;
+  flex-wrap: wrap;
 }
 body{
   margin: 0px;
